@@ -84,6 +84,12 @@
 - Initialization on demand holder / Double-checked locking
 - Обзор java.util.concurrent.*
 
+### Microbenchmarking JMH
+
+### XML технологии
+- формат XML. XSD, XPath, XSL(T)
+- Java API for XML: DOM, SAX, StAX, XSLT
+
 ### Сервис-ориентированная архитектура, Микросервисы
 - JMS, альтернативы
 - Варианты разворачивания сервисов. Работа с базой. Связывание сервисов.
