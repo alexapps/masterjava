@@ -38,6 +38,7 @@
 - <a href="https://ru.wikipedia.org/wiki/Double_checked_locking">Double checked locking</a>
 - <a href="https://en.wikipedia.org/wiki/Initialization-on-demand_holder_idiom">Initialization-on-demand holder idiom</a>
 - <a href="https://habrahabr.ru/post/27108/">Реализация Singleton в JAVA</a>
+- <a href="https://tproger.ru/translations/singleton-pitfalls/">Подводные камни Singleton</a>
 
 ## ![video](https://cloud.githubusercontent.com/assets/13649199/13672715/06dbc6ce-e6e7-11e5-81a9-04fbddb9e488.png) 3. <a href="https://www.youtube.com/watch?v=8bFF-5r_Kig">Реализация многопоточности в Java</a>
 - <a href="https://ru.wikipedia.org/wiki/Параллелизм_в_Java">Параллелизм в Java</a>
@@ -51,6 +52,8 @@
 - <a href="http://articles.javatalks.ru/articles/17">Использование ThreadLocal переменных</a>
 - <a href="https://www.youtube.com/watch?v=8piqauDj2yo">Николай Алименков — Прикладная многопоточность</a>
 - <a href="http://stackoverflow.com/questions/20163056/in-java-can-thread-switching-happen-in-the-synchronized-block">Can thread switching happen in the synchronized block?</a>
+- <a href="https://tproger.ru/translations/java8-concurrency-tutorial-1/">Параллельное выполнение кода с помощью потоков</a>
+- <a href="https://tproger.ru/translations/java8-concurrency-tutorial-2/">Синхронизация доступа к изменяемым объектам</a>
 
 ## ![video](https://cloud.githubusercontent.com/assets/13649199/13672715/06dbc6ce-e6e7-11e5-81a9-04fbddb9e488.png) 4. <a href="https://www.youtube.com/watch?v=AEhIh2qd-FM">Реализация многопоточной отправки писем. Execution Framework</a>
 
