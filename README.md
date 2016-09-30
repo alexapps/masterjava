@@ -52,8 +52,9 @@
 - <a href="http://articles.javatalks.ru/articles/17">Использование ThreadLocal переменных</a>
 - <a href="https://www.youtube.com/watch?v=8piqauDj2yo">Николай Алименков — Прикладная многопоточность</a>
 - <a href="http://stackoverflow.com/questions/20163056/in-java-can-thread-switching-happen-in-the-synchronized-block">Can thread switching happen in the synchronized block?</a>
-- <a href="https://tproger.ru/translations/java8-concurrency-tutorial-1/">Параллельное выполнение кода с помощью потоков</a>
-- <a href="https://tproger.ru/translations/java8-concurrency-tutorial-2/">Синхронизация доступа к изменяемым объектам</a>
+- **<a href="https://tproger.ru/translations/java8-concurrency-tutorial-1/">1. Параллельное выполнение кода с помощью потоков</a>**
+- **<a href="https://tproger.ru/translations/java8-concurrency-tutorial-2/">2. Синхронизация доступа к изменяемым объектам</a>**
+- **<a href="https://tproger.ru/translations/java8-concurrency-tutorial-3/">3. Атомарные переменные и конкурентные таблицы</a>**
 
 ## ![video](https://cloud.githubusercontent.com/assets/13649199/13672715/06dbc6ce-e6e7-11e5-81a9-04fbddb9e488.png) 4. <a href="https://www.youtube.com/watch?v=AEhIh2qd-FM">Реализация многопоточной отправки писем. Execution Framework</a>
 
