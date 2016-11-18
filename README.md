@@ -75,11 +75,13 @@
 Вычекать этот проект:
 ```git clone  https://github.com/JavaOPs/masterjava.git```
 
-Реализовать метод `MatrixUtil.concurrentMultiply`, позволяющий многопоточно <a href="https://ru.wikipedia.org/wiki/Умножение_матриц">перемножать квадратные матрицы N*N</a>.
+- Применить <a href="https://habrahabr.ru/post/114797/">оптимизацию</a> к MatrixUtil.singleThreadMultiply
+- Реализовать метод `MatrixUtil.concurrentMultiply`, позволяющий многопоточно <a href="https://ru.wikipedia.org/wiki/Умножение_матриц">перемножать квадратные матрицы N*N</a>.
 - Количество дочерних потоков ограничено `MainMatrix.THREAD_NUMBER`.
-- Учесть что-нибудь из <a href="https://habrahabr.ru/post/114797/">оптимизации</a>
+- Добиться того, чтобы на матрице 1000*1000 многопоточная реализация была быстрее однопоточной
 
 -----
+
 # Программа курса
 > **возможны изменения, окончательная программа будет перед стартом курса**
 
