@@ -13,7 +13,7 @@ public class MatrixUtil {
 
     // TODO implement parallel multiplication matrixA*matrixB
     public static int[][] concurrentMultiply(int[][] matrixA, int[][] matrixB, ExecutorService executor) throws InterruptedException, ExecutionException {
-        int[][] matrixC;// = new int[matrixSize][matrixSize];
+
         return (int[][])executor.submit(new Callable() {
             public int[][] call() throws Exception {
                 return singleThreadMultiply(matrixA, matrixB);
